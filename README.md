@@ -1,2 +1,2 @@
 # .github
-Universal database client for macOS with intuitive interface, advanced SQL editing, and comprehensive database administration features.
+Advanced terminal emulator for macOS with secure SSH connections, session management, and powerful scripting capabilities.
